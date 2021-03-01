@@ -1,0 +1,19 @@
+body{
+    font-family: 'open sans';
+}
+div{
+    text-align: center;
+    padding: 30px 50px 0 0;
+    font-family: 'open sans';
+    color: #000000;
+ 
+}
+
+#Nombre{
+    border: solid 5px;
+    padding: 9px;
+}
+legend{
+    border: solid 2px;
+    border-radius: 15px; 
+}
